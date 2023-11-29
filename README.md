@@ -153,7 +153,7 @@
 <div>기능구성도 <br> https://drive.google.com/file/d/1y-01uktdRTbNTj9PdYa_tDSTxb3xG23s/view?usp=sharing</div>
 <div>ER 다이어그렘 <br> https://drive.google.com/file/d/1y3fIKe3Z-TjzP12mHwaBkKjrmThsJ48-/view?usp=sharing</div>
 <div>데이터 베이스 설계 & 기능구상 <br> https://docs.google.com/spreadsheets/d/12aPVj6yjzhqZGQ0umPnqAQjW6_wXl6Uo75SHdoPK7C0/edit?usp=sharing</div>
-<div>화면설계서 <br> https://www.figma.com/team_invite/redeem/oh2YSYJNsbKnnhGfp4DHJ0</div>
+<div>화면설계서 <br> https://www.figma.com/file/osPLUnUCk1c0HdJrZSFDil/%EC%9C%A0%EC%A0%80?type=design&node-id=0%3A1&mode=design&t=L5Z6Pf9MzrMGv3BH-1</div>
 <br>
 <br>
 <h2> 팀 프로젝트 Git 주소</h2>
